@@ -1,0 +1,12 @@
+
+Here are the steps to write a file:
+1. Open the file using the open() function with the mode 'w' for writing
+2. Write to the file using the write() method
+3. Close the file to tidy up
+
+Here are the steps to read a file:
+1. Open the file using the open() function with the mode 'r' for reading
+2. Read its contents to a variable using the read() method
+3. Close the file to tidy up
+4. Print what you read
+Day 77: They still don't know that I'm actually an octopus in a human suit.
